@@ -1,0 +1,12 @@
+---
+title : "Echa un vistazo a nuestro portafolio"
+enable: true
+subtitle: >
+        Somos una agencia 360, lo que significa que podemos ayudarte con todo, 
+        desde el desarrollo de una estrategia de marketing digital hasta la ejecución y medición de tus campañas
+galleryImage: 
+ - image: "images/gallery/1.jpg"
+ - image: "images/gallery/2.jpg"
+ - image: "images/gallery/3.jpg"
+ - image: "images/gallery/4.jpg"
+---

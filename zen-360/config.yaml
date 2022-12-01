@@ -1,0 +1,78 @@
+baseURL: 'https://zen_360.com/'
+languageCode: es
+paginate: 6
+theme: coHub
+title: Zen Design
+Menu: {}
+menu:
+  Main:
+    - name: Servicios
+      url: '#service'
+      weight: 1
+    - name: Portafolio
+      url: '#gallery'
+      weight: 2
+    - name: Clientes
+      url: '#clients'
+      weight: 3
+##  - name: Blog
+##    url: '#blog'
+##    weight: 4
+##  - name: Pricing
+##    url: '#pricing'
+##    weight: 5
+    - name: Nosotros
+      url: /about/
+      weight: 4
+    - name: Contacto
+      url: /contact/
+      weight: 5
+  sitemap:
+    - name: Privacy Policy
+      url: /privacy/
+      weight: 1
+    - name: Terms
+      url: /terms/
+      weight: 2
+
+params:
+  css:
+  - scss/custom.scss
+  aboutPageURL: blog
+  contactLink: contact
+  copyright: '© {year} Zen Digital'
+  fabFormURL: 'https://fabform.io/f/u00kv3-'
+  googleAnalytics: G-JZ95FEWF9K
+  logo: images/zen_logo.png
+  logowhite: images/zen_logo_w.png
+  footerlogo: images/zen_logo.png
+  heroVideo: video/Hero_Zen.mp4
+  footerDescription: >-
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit quia ab,
+    natus fugiat voluptas saepe ipsum animi officiis in molestiae?
+  address:
+    address: '115 W 18th St. <br>  Bogotá, CO 110110'
+    email: hello@example.com
+    openingDesc: >-
+      Give us a call or drop by anytime, we endeavour to answer all enquiries
+      within 24 hours on business days.
+    openingHours: We are open from 7am — 7pm week days.
+    phone: +(448) 833 5272 332
+  map:
+    APIkey: AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0
+    latitude: '45.4502528'
+    longitude: '-122.783407'
+    pinImage: images/pin.png
+  social:
+    - icon: ti-facebook
+      url: 'https://www.facebook.com/'
+      weight: 1
+    - icon: ti-twitter-alt
+      url: 'https://twitter.com/'
+      weight: 2
+    - icon: ti-dribbble
+      url: 'https://dribbble.com/'
+      weight: 3
+    - icon: ti-instagram
+      url: 'https://www.instagram.com/'
+      weight: 4

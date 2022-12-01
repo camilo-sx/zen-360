@@ -1,0 +1,52 @@
+body {
+  background-color: #f5f5f5;
+}
+
+h3{
+  color: #031d44ff;
+}
+
+.element::-webkit-scrollbar { width: 0 !important }
+.container {
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+}
+.container::-webkit-scrollbar { 
+  display: none;  /* Safari and Chrome */
+}
+.nav-container img {
+  height: 40px;
+}
+.post-title, .catalogue-title {
+  color: #283d7e;
+}
+.nav a {
+  color: #0768ce;
+}
+
+lottie-player{
+  padding: auto 0;
+  width: auto;
+  height: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+video#bgvideo {
+position: fixed;
+top: 50%;
+left: 50%;
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+z-index: -100;
+-ms-transform: translateX(-50%) translateY(-50%);
+-moz-transform: translateX(-50%) translateY(-50%);
+-webkit-transform: translateX(-50%) translateY(-50%);
+transform: translateX(-50%) translateY(-50%);
+background: url(placeholder.jpg) no-repeat;
+background-size: cover;
+}
+

@@ -1,0 +1,49 @@
+---
+enable: true
+title: "Nuestros Servicios"
+subtitle: >
+          We enable people and businesses to work where they want, 
+          when they want and how they want.
+services:
+  - name: "Desarrollo Web/App"
+    description: >
+                 Diseñamos páginas web que te posicionan en el mercado como una empresa de referencia.
+    icon: "ti-view-grid"
+    lottie_animation: "https://assets9.lottiefiles.com/packages/lf20_fdo4fhy6.json"
+  - name: "Social Media"
+    description: >
+                Potenciamos tu marca con la mejor estrategia de contenidos para destacar tus productos y servicios.
+    icon: "ti-infinite"
+    lottie_animation: "https://assets7.lottiefiles.com/packages/lf20_2c9pa21b.json"
+  - name: "SEO"
+    description: >
+                Posicionamos tu negocio para que tenga visibilidad en motores de búsqueda.
+    icon: "ti-help-alt"
+    lottie_animation: "https://assets8.lottiefiles.com/packages/lf20_jlzh6zpv.json"
+  - name: "Branding"
+    description: >
+                A través de nuestro servicio de branding corporativo te asesoramos para comunicar la escencia de tu negocio.
+    
+    lottie_animation: "https://assets3.lottiefiles.com/packages/lf20_uhcfeaa9.json"
+    icon: "ti-credit-card"
+  - name: "Diseño Industrial"
+    description: >
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
+                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+    lottie_animation: "https://assets8.lottiefiles.com/private_files/lf30_m8xedr1v.json"
+    icon: "ti-lock"
+  - name: "Diseño Arquitectónico"
+    description: >
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
+                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+    icon: "ti-image"
+    lottie_animation: "https://assets6.lottiefiles.com/packages/lf20_pz7gkfo3.json"
+
+  - name: "Diseño Estratégico"
+    description: >
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
+                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+    icon: "ti-image"
+    lottie_animation: "https://assets4.lottiefiles.com/packages/lf20_bzZ00kY9hY.json"
+    
+---
