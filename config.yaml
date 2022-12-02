@@ -1,4 +1,4 @@
-baseURL: 'https://zen_360.com/'
+baseURL: 'https://camilo-sx.github.io/zen-360/'
 languageCode: es
 paginate: 6
 theme: hugo-cohub
