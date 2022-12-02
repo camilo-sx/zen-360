@@ -1,7 +1,9 @@
 baseURL: 'https://zen_360.com/'
 languageCode: es
+module:
+  imports:
+  - path: github.com/StaticMania/hugo-cohub
 paginate: 6
-theme: coHub
 title: Zen Design
 Menu: {}
 menu:
