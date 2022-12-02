@@ -1,7 +1,7 @@
 baseURL: 'https://zen_360.com/'
 languageCode: es
 paginate: 6
-theme: coHub
+theme: hugo-cohub
 title: Zen Design
 Menu: {}
 menu:
