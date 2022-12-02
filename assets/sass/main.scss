@@ -50,3 +50,8 @@ background: url(placeholder.jpg) no-repeat;
 background-size: cover;
 }
 
+.navbar-brand {
+  img {
+    width: 200px;
+  }
+}
